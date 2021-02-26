@@ -1,3 +1,16 @@
 GIT merupakan salah satu dari VCS (Version Control System)
 In software engineering, version control (also known as revision control, source control, or source code management) is a class of systems responsible for managing changes to computer programs, documents, large web sites, or other collections of information. Version control is a component of software configuration management.
 dalam software engineering, version control (yang biasa kita kenal sebagai, revision control, source control, atau source codemanagement) adalah sistem yang mengelola perubahan pada program kkomputer, dokumen, website, atau kumpulan informasi lain. -sumber:https://en.wikipedia.org/wiki/version_control -
+
+Defiisi VCS (Version Control System)
+Sebuah sistem yang menyimpan 'rekeaman/snapshot'perubahan pada source code
+Memungkinkan bekerja berkolaborasi dengan lebih baik
+Mengetahui siapa yang melakukan dan kapan sebuah perubahan terjadi
+Memungkinkan kita untuk kembali ke keadaan sebelum perubahan (checout)
+
+Macam-macam VCS
+-. GIT
+-. Subvesion
+-. Mercurial
+-. CVS
+
